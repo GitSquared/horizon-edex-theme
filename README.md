@@ -17,7 +17,7 @@ Horizon also has a `-full` variant with no on-screen keyboard and a larger termi
 
 
 
-## moar screenshot plz
+## more screenshot plz
 
 <p align="center">
   <img alt="screenshot" src="https://github.com/GitSquared/horizon-edex-theme/raw/master/screenshots/bobfish.png">
